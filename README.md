@@ -35,8 +35,3 @@ I work on machine learning research and practical AI systems, with a focus on wo
 - Research Affiliate at NYU Courant, working on JEPA-based world models for visual navigation.
 - Research Intern at the University of Trieste AI Lab, working on certified counterfactual explanations.
 - Independent ML engineer building applied AI tools, including edge inference and document automation systems.
-
-## Connect
-
-- Website: [gabrielepintus.github.io](https://gabrielepintus.github.io)
-- LinkedIn: [gabriele-gavino-pintus](https://www.linkedin.com/in/gabriele-gavino-pintus/)
