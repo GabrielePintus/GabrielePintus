@@ -28,6 +28,7 @@ I work on machine learning research and practical AI systems, with a focus on wo
 | Project | Scope |
 | --- | --- |
 | [ReinforcementLearningProject](https://github.com/GabrielePintus/ReinforcementLearningProject) | A theory-first LunarLander case study: each algorithm is introduced from its motivation and mathematical intuition before implementation, from Bellman-based tabular methods to DQN, actor-critic, and PPO. |
+| [YOLO-DigitReader](https://github.com/GabrielePintus/YOLO-DigitReader) | Edge AI system for automatic power-meter digit reading, combining a fine-tuned YOLO detector with Raspberry Pi deployment constraints, OpenVINO optimization, and stable multi-digit reading from webcam input. |
 | [GMOO-Project](https://github.com/GabrielePintus/GMOO-Project) | Genetic algorithm for neural-network hyperparameter tuning on mixed search spaces, with typed mutation/crossover operators and a hierarchy-based mutation scheme for activation functions, benchmarked against Bayesian optimization. |
 | [smb2fuse](https://github.com/GabrielePintus/smb2fuse) | FUSE-based filesystem for macOS that mounts SMB2/SMB3 network shares as local directories, helping legacy macOS workflows access modern file servers without re-enabling SMBv1. |
 
